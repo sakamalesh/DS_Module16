@@ -1,4 +1,4 @@
-# Ex17 AVL Tree – Rotation
+# Ex4(B) AVL Tree – Rotation
 ## DATE: 24/03/2025
 ## AIM:
 To write a C function to perform right rotation in an AVL Tree.
